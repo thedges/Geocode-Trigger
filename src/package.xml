@@ -9,7 +9,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>GeoTestObjects</members>
+        <members>GeoTestObject__c</members>
         <name>CustomTab</name>
     </types>
     <types>
